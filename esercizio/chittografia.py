@@ -18,6 +18,7 @@ import base64
 # keyPub = RSA.construct((seq[0], seq[1]))
 
 # # Per iniziare generiamo una coppia di chiavi e le stampiamo
+
 # # Generating RSA Key Pair
 # # Una volta stampate, non serve più
 # key_pair = RSA.generate(2048)
